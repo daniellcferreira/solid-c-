@@ -1,4 +1,10 @@
 # Exemplos de SOLID em C#
+<p>
+  <img src="https://img.shields.io/badge/C%23-Linguagem-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Unit%20Testing-Testes-FF6C37?style=flat-square&logo=jest&logoColor=white" alt="Testes">
+</p>
+
 
 ## Descrição
 
